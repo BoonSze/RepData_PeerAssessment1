@@ -3,8 +3,8 @@ title: "PA1_template"
 output: html_document
 ---
 
-This documents what I have done for Peer Assignment 1 of the Reproducible Research course.
-The steps and code are provided below:
+This documents the steps and code for Peer Assignment 1 of the Reproducible Research course.
+The graphs can be viewed in the html document.
 
 Load the data
 
